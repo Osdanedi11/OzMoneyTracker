@@ -55,9 +55,8 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "a52132e3-7b24-4c1b-9315-46625e580b8a"
+        "projectId": "678b0fc4-5d7b-4d2c-aa4b-669c8737499b"
       }
-    },
-    "owner": "abacus.ai"
+    }
   }
 }
