@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Oz Money Tracker",
-    "slug": "abacusai-mobile-apps",
+    "slug": "oz-money-tracker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.abacusai.ozmoneytracker.t1779126814",
+      "bundleIdentifier": "com.ozfahrer.ozmoneytracker",
       "buildNumber": "1"
     },
     "android": {
@@ -24,7 +24,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.abacusai.ozmoneytracker.t1779126814",
+      "package": "com.ozfahrer.ozmoneytracker",
       "versionCode": 1,
       "intentFilters": [
         {
@@ -32,7 +32,7 @@
           "autoVerify": true,
           "data": [
             {
-              "scheme": "abacusai1779126814",
+              "scheme": "ozmoneytracker",
               "host": "*"
             }
           ],
@@ -46,7 +46,7 @@
     "web": {
       "favicon": "./assets/images/icon.png"
     },
-    "scheme": "abacusai1779126814",
+    "scheme": "ozmoneytracker",
     "plugins": [
       "expo-router",
       "expo-sqlite",
